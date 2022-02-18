@@ -11,6 +11,7 @@ public class Student {
 		studentID = ++serialNum;
 	}
 	
+	//static 메서드
 	public static int getSerialNum() {
 		/*
 		int i = 10;				//지역변수
